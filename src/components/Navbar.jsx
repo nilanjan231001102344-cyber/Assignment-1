@@ -4,7 +4,7 @@ function Navbar() {
       <div className="nav-container">
 
         <a href="#home" className="logo">
-          <span>&lt;</span>PS<span>/&gt;</span>
+          <span>&lt;</span>ND<span>/&gt;</span>
         </a>
 
         <div className="nav-links">

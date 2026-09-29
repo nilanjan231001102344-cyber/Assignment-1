@@ -9,7 +9,7 @@ function Hero() {
         </p>
 
         <h1>
-          Priyangshu <span>Sarkar</span>
+          Nilanjan <span>Dey</span>
         </h1>
 
         <h2>
@@ -50,7 +50,7 @@ function Hero() {
             </p>
 
             <p className="indent">
-              name: <span className="code-green">"Priyangshu"</span>,
+              name: <span className="code-green">"Nilanjan"</span>,
             </p>
 
             <p className="indent">

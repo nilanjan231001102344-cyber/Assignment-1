@@ -22,7 +22,7 @@ function About() {
           </h3>
 
           <p>
-            I am Priyangshu Sarkar, a BCA student with a strong
+            I am Nilanjan Dey, a BCA student with a strong
             interest in web and application development. I enjoy
             solving programming problems and building practical
             projects using modern technologies.
@@ -38,7 +38,7 @@ function About() {
 
             <div>
               <strong>Name</strong>
-              <p>Priyangshu Sarkar</p>
+              <p>Nilanjan Dey</p>
             </div>
 
             <div>

@@ -6,7 +6,7 @@ function Footer() {
 
         <div>
           <h3>
-            <span>&lt;</span>PS<span>/&gt;</span>
+            <span>&lt;</span>ND<span>/&gt;</span>
           </h3>
 
           <p>

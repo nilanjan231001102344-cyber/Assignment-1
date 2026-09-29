@@ -38,11 +38,11 @@ function Education() {
           <div>
             <h3>Higher Secondary</h3>
 
-            <h4>Madhyamgram High School</h4>
+            <h4>Rampurhat high school</h4>
 
             <p>
               Higher Secondary education with a percentage of
-              <strong> 65.8%</strong>.
+              <strong> 80%</strong>.
             </p>
           </div>
 
@@ -57,11 +57,11 @@ function Education() {
           <div>
             <h3>Secondary Education</h3>
 
-            <h4>Madhyamgram High School</h4>
+            <h4>Rampurhat high school</h4>
 
             <p>
               Secondary education with a percentage of
-              <strong> 79.71%</strong>.
+              <strong> 78%</strong>.
             </p>
           </div>
 

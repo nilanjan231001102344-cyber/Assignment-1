@@ -23,7 +23,7 @@ function Contact() {
 
             <div>
               <strong>Email</strong>
-              <p>priyangshu@example.com</p>
+              <p>nilanjan@example.com</p>
             </div>
           </div>
 
